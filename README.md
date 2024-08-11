@@ -1,5 +1,8 @@
 # Desafio 01-DSM
 
+No pudimos subir el archivo con los ejercicios ya que era muy pesado, aqui le comparto el link de los ejercicios:
+https://drive.google.com/file/d/1UoKUjA_dZpadDgjLUpHjYv4ydi32PEyZ/view?usp=sharing
+
 Integrantes:
 
 - Calvin Jonathan Mena Dimas. MD232400
