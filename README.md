@@ -7,6 +7,6 @@ Integrantes:
 
 
 ### LINK PDF:
-- [PDF]()
+- [PDF](https://drive.google.com/file/d/1s5nZQqDP-v8N1saIKO8nxx9gWrFQxdrM/view?usp=sharing)
 ### LINK VIDEOs:
-- [Video]()
+- [Video](https://drive.google.com/drive/folders/1ZE3bp8H_uLgoAwaKJbLSewbdGYzX4ID_?usp=sharing)
